@@ -1,28 +1,28 @@
 import React from 'react'
 import { useNavigate } from 'react-router-dom'
 import { Card, Col, Row } from 'reactstrap'
-import sc from '../../img/new_menu/Samosa ChickenBeefs.JFIF'
-import sp from '../../img/new_menu/Springrolls ChickenVeg.JFIF'
-import bw from '../../img/new_menu/Buffalo Wings.JFIF'
+// import sc from '../../img/new_menu/Samosa ChickenBeefs.JFIF'
+// import sp from '../../img/new_menu/Springrolls ChickenVeg.JFIF'
+// import bw from '../../img/new_menu/Buffalo Wings.JFIF'
 
 function Appetizers() {
   const navigate = useNavigate()
   const appetizersmenus = [
-    {
-      image: <img src={sc} alt="" className="sub_item_image" />,
-      title: 'Samosa Chicken/Beefs',
-      price: '₦100.00',
-    },
-    {
-      image: <img src={sp} alt="" className="sub_item_image" />,
-      title: 'Springrolls Chicken/Veg',
-      price: '₦100.00',
-    },
-    {
-      image: <img src={bw} alt="" className="sub_item_image" />,
-      title: 'Buffalo Wings (pack of 4)',
-      price: '₦1500.00',
-    },
+    // {
+    //   image: <img src={sc} alt="" className="sub_item_image" />,
+    //   title: 'Samosa Chicken/Beefs',
+    //   price: '₦100.00',
+    // },
+    // {
+    //   image: <img src={sp} alt="" className="sub_item_image" />,
+    //   title: 'Springrolls Chicken/Veg',
+    //   price: '₦100.00',
+    // },
+    // {
+    //   image: <img src={bw} alt="" className="sub_item_image" />,
+    //   title: 'Buffalo Wings (pack of 4)',
+    //   price: '₦1500.00',
+    // },
     
   
     

@@ -1,27 +1,27 @@
 import React from 'react'
 import { useNavigate } from 'react-router-dom'
 import { Card, Col, Row } from 'reactstrap'
-// import ms from '../../img/new_menu/Minestrone Soup.JFIF'
-// import cs from '../../img/new_menu/Chicken Sweet corn creamy.JPEG'
-// import ps from '../../img/new_menu/Peking Soup.JFIF'
+import ms from '../../img/n_m/Minestrone Soup.jpeg'
+import cs from '../../img/n_m/Chicken Sweet corn creamy.jpeg'
+import ps from '../../img/n_m/Peking Soup.jpeg'
 function Soup() {
   const navigate = useNavigate()
   const SoupMenu = [
-    // {
-    //   image: <img src={ms} alt="" className="sub_item_image" />,
-    //   title: 'Minestrone Soup',
-    //   price: '₦1500.00',
-    // },
-    // {
-    //   image: <img src={cs} alt="" className="sub_item_image" />,
-    //   title: 'Chicken Sweet corn creamy',
-    //   price: '₦1500.00',
-    // },
-    // {
-    //   image: <img src={ps} alt="" className="sub_item_image" />,
-    //   title: 'Peking Soup',
-    //   price: '₦1500.00',
-    // },
+    {
+      image: <img src={ms} alt="" className="sub_item_image" />,
+      title: 'Minestrone Soup',
+      price: '₦1500.00',
+    },
+    {
+      image: <img src={cs} alt="" className="sub_item_image" />,
+      title: 'Chicken Sweet corn creamy',
+      price: '₦1500.00',
+    },
+    {
+      image: <img src={ps} alt="" className="sub_item_image" />,
+      title: 'Peking Soup',
+      price: '₦1500.00',
+    },
   ]
   return (
     <>

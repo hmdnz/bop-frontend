@@ -1,22 +1,22 @@
 import React from 'react'
 import { useNavigate } from 'react-router-dom'
 import { Card, Col, Row } from 'reactstrap'
-// import tps from '../../img/new_menu/Toast, Pancake, Sausage.JFIF'
-// import be from '../../img/new_menu/Baked Beans & Egg.JFIF'
+import tps from '../../img/n_m/Toast, Pancake, Sausage.jpeg'
+import be from '../../img/n_m/Baked Beans & Egg.jpeg'
 import { MyButton } from '../../MyButton'
 function EBreakfast() {
   const navigate = useNavigate()
   const Ebreakfastmenus = [
-    // {
-    //     image:<img src={tps} alt='' className="sub_item_image"/>,
-    //     title:'Toast, Pancake, Sausage',
-    //     price:'₦500.00'
-    // },
-    // {
-    //     image:<img src={be} alt='' className="sub_item_image"/>,
-    //     title:'Baked Beans & Egg',
-    //     price:'₦1300.00'
-    // }
+    {
+        image:<img src={tps} alt='' className="sub_item_image"/>,
+        title:'Toast, Pancake, Sausage',
+        price:'₦500.00'
+    },
+    {
+        image:<img src={be} alt='' className="sub_item_image"/>,
+        title:'Baked Beans & Egg',
+        price:'₦1300.00'
+    }
   ]
   return (
     <>

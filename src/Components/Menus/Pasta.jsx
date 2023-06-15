@@ -1,34 +1,34 @@
 import React from 'react'
 import { useNavigate } from 'react-router-dom'
 import { Card, Col, Row } from 'reactstrap'
-// import sm from '../../img/new_menu/Spaghetti & Meatballs sauce.JFIF'
-// import ss from '../../img/new_menu/Stir Fried Spaghetti.JFIF'
-// import sb from '../../img/new_menu/Spaghetti Bolognese.JFIF'
-// import sss from '../../img/new_menu/sss.JFIF'
+import sm from '../../img/n_m/Spaghetti & Meatballs sauce.jpeg'
+import ss from '../../img/n_m/Stir Fried Spaghetti.jpeg'
+import sb from '../../img/n_m/Spaghetti Bolognese.jpeg'
+import sss from '../../img/n_m/sss.jpeg'
 
 function Pasta() {
   const navigate = useNavigate()
   const Pastamenus = [
-    // {
-    //   image: <img src={sm} alt="" className="sub_item_image" />,
-    //   title: 'Spaghetti & Meatballs sauce',
-    //   price: '₦3000.00',
-    // },
-    // {
-    //   image: <img src={ss} alt="" className="sub_item_image" />,
-    //   title: 'Stir Fried Spaghetti',
-    //   price: '₦800.00',
-    // },
-    // {
-    //   image: <img src={sb} alt="" className="sub_item_image" />,
-    //   title: 'Spaghetti Bolognese',
-    //   price: '₦2000.00',
-    // },
-    // {
-    //   image: <img src={sss} alt="" className="sub_item_image" />,
-    //   title: 'Spaghetti Lomein',
-    //   price: '₦2500.00',
-    // },
+    {
+      image: <img src={sm} alt="" className="sub_item_image" />,
+      title: 'Spaghetti & Meatballs sauce',
+      price: '₦3000.00',
+    },
+    {
+      image: <img src={ss} alt="" className="sub_item_image" />,
+      title: 'Stir Fried Spaghetti',
+      price: '₦800.00',
+    },
+    {
+      image: <img src={sb} alt="" className="sub_item_image" />,
+      title: 'Spaghetti Bolognese',
+      price: '₦2000.00',
+    },
+    {
+      image: <img src={sss} alt="" className="sub_item_image" />,
+      title: 'Spaghetti Lomein',
+      price: '₦2500.00',
+    },
   ]
   return (
     <>

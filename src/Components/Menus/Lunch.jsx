@@ -1,10 +1,10 @@
 import React from 'react'
 import { useNavigate } from 'react-router-dom'
 import { Card, Col, Row } from 'reactstrap'
-import Mandirice from '../../img/n_m/Mandi Rice.jpeg'
-import Friedrice from '../../img/n_m/Fried Rice.jpeg'
-import Jallofrice from '../../img/n_m/Jollof Rice.jpeg'
-import Whiterice from '../../img/n_m/White Rice.jpeg'
+import Mandirice from '../../img/new_menu/Mandi Rice.jpg'
+import Friedrice from '../../img/new_menu/Fried Rice.jpg'
+import Jallofrice from '../../img/new_menu/Jollof Rice.jpg'
+import Whiterice from '../../img/new_menu/White Rice.jpg'
 
 import { MyButton } from '../../MyButton'
 

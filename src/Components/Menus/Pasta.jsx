@@ -1,10 +1,10 @@
 import React from 'react'
 import { useNavigate } from 'react-router-dom'
 import { Card, Col, Row } from 'reactstrap'
-import sm from '../../img/n_m/Spaghetti & Meatballs sauce.jpeg'
-import ss from '../../img/n_m/Stir Fried Spaghetti.jpeg'
-import sb from '../../img/n_m/Spaghetti Bolognese.jpeg'
-import sss from '../../img/n_m/sss.jpeg'
+import sm from '../../img/new_menu/Spaghetti & Meatballs sauce.jpg'
+import ss from '../../img/new_menu/Stir Fried Spaghetti.jpg'
+import sb from '../../img/new_menu/Spaghetti Bolognese.jpg'
+import sss from '../../img/new_menu/sss.jpg'
 
 function Pasta() {
   const navigate = useNavigate()

@@ -7,5 +7,5 @@ export default defineConfig({
   server: {
     open: '/'
   },
-  assetsInclude: ["**/*.jpeg", "**/*.JPG", "**/*.PNG", "**/*.JPEG"]
+  assetsInclude: ["**/*.jpg", "**/*.JPG", "**/*.PNG", "**/*.jpg"]
 })

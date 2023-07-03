@@ -1,12 +1,12 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
 import { Card, Col, Row } from "reactstrap";
-import beef from '../../img/menu/beef.jpg'
-import p_wedges from '../../img/menu/PotatoWedges.jpg'
-import golden_y from '../../img/menu/pasta1.jpg'
-import fried_y from '../../img/menu/friedyam.jpg'
-import indomie from '../../img/menu/Indomie_Sausage.jpg'
-import indomie_s from '../../img/menu/IndomieSardine.jpg'
+import beef from '../img/menu/beef.jpg'
+import p_wedges from '../img/menu/PotatoWedges.jpg'
+import golden_y from '../img/menu/pasta1.jpg'
+import fried_y from '../img/menu/friedyam.jpg'
+import indomie from '../img/menu/Indomie_Sausage.jpg'
+import indomie_s from '../img/menu/IndomieSardine.jpg'
 function Breakfast(){
     const navigate = useNavigate()
     const breakfastmenus = [

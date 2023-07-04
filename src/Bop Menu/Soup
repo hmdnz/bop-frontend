@@ -1,0 +1,52 @@
+  <div class="col-lg-6 menu-item filter-soup">
+            <div class="menu-content">
+              <a href="#">Peking Soup</a><span>₦ 1500</span>
+            </div>
+            <div class="menu-ingredients">
+              Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+            </div>
+          </div>
+ 
+ <div class="col-lg-6 menu-item filter-soup">
+            <div class="menu-content">
+              <a href="#">Chicken Sweet Corn Creamy	</a><span>₦ 1500</span>
+            </div>
+            <div class="menu-ingredients">
+              Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+            </div>
+          </div>
+          
+          
+          
+            <div class="col-lg-6 menu-item filter-soup">
+              <div class="menu-content">
+                <a href="#">Chicken Minestrone Soup
+(Chicken , potatoes, vegetable
+& vermicell in thick tomato)	</a><span>₦ 1500</span>
+              </div>
+              <div class="menu-ingredients">
+                Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+              </div>
+            </div>
+
+              <div class="col-lg-6 menu-item filter-soup">
+                <div class="menu-content">
+                  <a href="#">Bop Special Soup</a><span>₦ 1500</span>
+                </div>
+                <div class="menu-ingredients">
+                  Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+                </div>
+              </div>
+  
+
+ 
+ <div class="col-lg-6 menu-item filter-soup">
+            <div class="menu-content">
+              <a href="#">Lamp Soup with Parathas</a><span>₦ 3000</span>
+            </div>
+            <div class="menu-ingredients">
+              Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+            </div>
+          </div>
+ 
+ 

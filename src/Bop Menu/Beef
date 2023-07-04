@@ -1,0 +1,30 @@
+<div class="col-lg-6 menu-item filter-beef">
+            <div class="menu-content">
+              <a href="#">Sprey Grilled Steak</a><span>₦ 3000</span>
+            </div>
+            <div class="menu-ingredients">
+              Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+            </div>
+          </div>
+ 
+ <div class="col-lg-6 menu-item filter-beef">
+            <div class="menu-content">
+              <a href="#">Mixed Grill</a><span>₦ 3000</span>
+            </div>
+            <div class="menu-ingredients">
+              Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+            </div>
+          </div>
+          
+           <div class="col-lg-6 menu-item filter-beef">
+            <div class="menu-content">
+              <a href="#">Beefs Kebab per steak</a><span>₦ 200</span>
+            </div>
+            <div class="menu-ingredients">
+              Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+          <p>All Grills are served with fries,potato wedges herbed potato or mashed potatoes </p>
+            </div>
+          </div>
+          
+ 
+

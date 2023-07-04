@@ -1,0 +1,75 @@
+ <div class="col-lg-6 menu-item filter-extra">
+            <div class="menu-content">
+              <a href="#">Shawarma</a><span>₦ 800 ₦ 1500</span>
+            </div>
+            <div class="menu-ingredients">
+              Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+            </div>
+          </div>
+ 
+ <div class="col-lg-6 menu-item filter-extra">
+            <div class="menu-content">
+              <a href="#">Burger</a><span>₦ 1200</span>
+            </div>
+            <div class="menu-ingredients">
+              Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+            </div>
+          </div>
+ 
+ <div class="col-lg-6 menu-item filter-extra">
+            <div class="menu-content">
+              <a href="#">Roasto	</a><span>₦ 1500</span>
+            </div>
+            <div class="menu-ingredients">
+              Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+            </div>
+          </div>
+          
+          
+          
+            <div class="col-lg-6 menu-item filter-extra">
+              <div class="menu-content">
+                <a href="#">Philadelphia</a><span>₦ 2000</span>
+              </div>
+              <div class="menu-ingredients">
+                Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+              </div>
+            </div>
+
+              <div class="col-lg-6 menu-item filter-extra">
+                <div class="menu-content">
+                  <a href="#">Bop Chicken Sandwitch</a><span>₦ 1200</span>
+                </div>
+                <div class="menu-ingredients">
+                  Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+                </div>
+              </div>
+  
+ <div class="col-lg-6 menu-item filter-extra">
+            <div class="menu-content">
+              <a href="#">Bop Tuna Sandwitch	</a><span>₦ 1200</span>
+            </div>
+            <div class="menu-ingredients">
+              Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+            </div>
+          </div>
+ 
+ <div class="col-lg-6 menu-item filter-extra">
+            <div class="menu-content">
+              <a href="#">Bop  Egg Sandwitch</a><span>₦ 1200</span>
+            </div>
+            <div class="menu-ingredients">
+              Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+            </div>
+          </div>
+ 
+<div class="col-lg-6 menu-item filter-extra">
+            <div class="menu-content">
+              <a href="#">Doughnut, Hotdog, Meatpie</a><span>₦ 300</span>
+            </div>
+            <div class="menu-ingredients">
+              Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+            </div>
+          </div>
+ 
+

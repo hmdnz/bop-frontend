@@ -1,0 +1,47 @@
+ <div class="col-lg-6 menu-item filter-hots">
+            <div class="menu-content">
+              <a href="#">Cappucino</a><span>₦ 1000</span>
+            </div>
+            <div class="menu-ingredients">
+              Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+            </div>
+          </div>
+ 
+ <div class="col-lg-6 menu-item filter-hots">
+            <div class="menu-content">
+              <a href="#">Hot Chocolate</a><span>Expresso</a><span>₦ 1000</span>
+            </div>
+            <div class="menu-ingredients">
+              Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+            </div>
+          </div>
+          
+          
+          
+            <div class="col-lg-6 menu-item filter-hots">
+              <div class="menu-content">
+                <a href="#">Spiced Tea/cup</a><span>₦ 300</span>
+              </div>
+              <div class="menu-ingredients">
+                Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+              </div>
+            </div>
+
+              <div class="col-lg-6 menu-item filter-hots">
+                <div class="menu-content">
+                  <a href="#">Purple Hibi</a><span>₦ 400</span>
+                </div>
+                <div class="menu-ingredients">
+                  Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+                </div>
+              </div>
+  
+ <div class="col-lg-6 menu-item filter-hots">
+            <div class="menu-content">
+              <a href="#">Bop Special</a><span>₦ 400</span>
+            </div>
+            <div class="menu-ingredients">
+              Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+            </div>
+          </div>
+ 

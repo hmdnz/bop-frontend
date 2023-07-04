@@ -1,0 +1,49 @@
+ <div class="col-lg-6 menu-item filter-grills">
+            <div class="menu-content">
+              <a href="#">Bop Chicken Grill Full</a><span>₦ 4500</span>
+            </div>
+            <div class="menu-ingredients">
+              Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+            </div>
+          </div>
+ 
+ <div class="col-lg-6 menu-item filter-grills">
+            <div class="menu-content">
+              <a href="#">Bop Chicken Grill/Half</a><span>₦ 2500</span>
+            </div>
+            <div class="menu-ingredients">
+              Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+            </div>
+          </div>
+ 
+ <div class="col-lg-6 menu-item filter-grills">
+            <div class="menu-content">
+              <a href="#">Shish Tawook 4 Sticks</a><span>₦ 2500</span>
+            </div>
+            <div class="menu-ingredients">
+              Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+            </div>
+          </div>
+          
+          
+          
+            <div class="col-lg-6 menu-item filter-grills">
+              <div class="menu-content">
+                <a href="#">Chicken Skewers served with
+fries & Humms, Bread</a><span>₦ 3000</span>
+              </div>
+              <div class="menu-ingredients">
+                Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+              </div>
+            </div>
+
+              <div class="col-lg-6 menu-item filter-grills">
+                <div class="menu-content">
+                  <a href="#">Grilled Fish, Cat Fish, Tilaphia</a><span>₦ 3000</span>
+                </div>
+                <div class="menu-ingredients">
+                  Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+                </div>
+              </div>
+  
+ 

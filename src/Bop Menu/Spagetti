@@ -1,0 +1,75 @@
+ <div class="col-lg-6 menu-item filter-pasta">
+            <div class="menu-content">
+              <a href="#">Spaghetti & Meatballs Sauce</a><span>₦ 3000</span>
+            </div>
+            <div class="menu-ingredients">
+              Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+            </div>
+          </div>
+ 
+ <div class="col-lg-6 menu-item filter-pasta">
+            <div class="menu-content">
+              <a href="#">Stir Fried Spagetti</a><span>₦ 800</span>
+            </div>
+            <div class="menu-ingredients">
+              Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+            </div>
+          </div>
+ 
+ <div class="col-lg-6 menu-item filter-pasta">
+            <div class="menu-content">
+              <a href="#">Spaghetti Bolognese</a><span>₦ 2000</span>
+            </div>
+            <div class="menu-ingredients">
+              Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+            </div>
+          </div>
+          
+          
+          
+            <div class="col-lg-6 menu-item filter-pasta">
+              <div class="menu-content">
+                <a href="#">Spaghetti Lomein</a><span>₦ 2500</span>
+              </div>
+              <div class="menu-ingredients">
+                Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+              </div>
+            </div>
+
+              <div class="col-lg-6 menu-item filter-pasta">
+                <div class="menu-content">
+                  <a href="#">Chow Mein</a><span>₦ 2500</span>
+                </div>
+                <div class="menu-ingredients">
+                  Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+                </div>
+              </div>
+  
+ <div class="col-lg-6 menu-item filter-pasta">
+            <div class="menu-content">
+              <a href="#">Singapore Noodles</a><span>₦ 2000</span>
+            </div>
+            <div class="menu-ingredients">
+              Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+            </div>
+          </div>
+ 
+ <div class="col-lg-6 menu-item filter-pasta">
+            <div class="menu-content">
+              <a href="#">Chicken Stir Fry Noodles</a><span>₦ 2000</span>
+            </div>
+            <div class="menu-ingredients">
+              Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+            </div>
+          </div>
+          
+           <div class="col-lg-6 menu-item filter-pasta">
+            <div class="menu-content">
+              <a href="#">Alfredo</a><span>₦ 3000</span>
+            </div>
+            <div class="menu-ingredients">
+              Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+            </div>
+          </div>
+ 
+

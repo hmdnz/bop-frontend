@@ -1,0 +1,89 @@
+ */
+ ENGLISH BREAKFAST
+ 
+ 
+ <div class="col-lg-6 menu-item filter-englishbreakfast">
+            <div class="menu-content">
+              <a href="#">Toast, Pancake, Sausage</a><span>₦ 500</span>
+            </div>
+            <div class="menu-ingredients">
+              Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+            </div>
+          </div>
+ 
+ <div class="col-lg-6 menu-item filter-englishbreakfast"">
+            <div class="menu-content">
+              <a href="#">Baked Beans & Egg</a><span>₦ 1000</span>
+            </div>
+            <div class="menu-ingredients">
+              Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+            </div>
+          </div>
+
+          
+   <div class="col-lg-6 menu-item filter-englishbreakfast"">
+            <div class="menu-content">
+              <a href="#">Liver & Kidney Sauce/Egg Sauce</a><span>₦ 1000</span>
+            </div>
+            <div class="menu-ingredients">
+              Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+            </div>
+          </div>
+
+
+              
+   BREAKFAST
+ 
+ 
+ 
+ <div class="col-lg-6 menu-item filter-breakfast">
+            <div class="menu-content">
+              <a href="#">Fries, Sausage & Egg</a><span>₦ 500</span>
+            </div>
+            <div class="menu-ingredients">
+              Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+            </div>
+          </div>
+ 
+ <div class="col-lg-6 menu-item filter-breakfast">
+            <div class="menu-content">
+              <a href="#">Potato Wedges, Boiled Eggs & Sauce</a><span>₦ 1300</span>
+            </div>
+            <div class="menu-ingredients">
+              Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+            </div>
+          </div>
+ 
+ <div class="col-lg-6 menu-item filter-breakfast">
+            <div class="menu-content">
+              <a href="#">Golden Yam</a><span>₦ 600</span>
+            </div>
+            <div class="menu-ingredients">
+              Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+            </div>
+          </div>
+          
+          
+          
+            <div class="col-lg-6 menu-item filter-breakfast">
+              <div class="menu-content">
+                <a href="#">Fried Yam</a><span>₦ 500</span>
+              </div>
+              <div class="menu-ingredients">
+                Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+              </div>
+            </div>
+
+              <div class="col-lg-6 menu-item filter-breakfast">
+                <div class="menu-content">
+                  <a href="#">Indomie, Sausage, Egg, Sardine	</a><span style="padding-right:3px;">₦ 500  ₦ 700  ₦ 500</span>
+                </div>
+                <div class="menu-ingredients">
+                  Grilled chicken with provolone, artichoke hearts, and roasted red pesto
+                </div>
+              </div>
+              
+
+LUNCH
+           
+      
